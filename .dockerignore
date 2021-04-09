@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+
+# VCS
+/.git/
+
+# IDE
+/.idea/
+/.settings/
+/.vscode/
+*.iml
+.classpath
+.project
+
+# Build
+/.gradle/
+/build/
+
+# Unnecessary Source Files
+/.github/
+/src/test/
+/.dockerignore
+/.editorconfig
+/.gitignore
+/docker-compose.yml
+/Dockerfile
+*.md

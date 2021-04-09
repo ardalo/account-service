@@ -1,0 +1,9 @@
+version: '3'
+services:
+  account-service:
+    build: .
+    image: ardalo-digital-platform/account-service:latest
+    ports:
+      - 8083:8083
+    environment:
+      SPRING_PROFILES_ACTIVE: plaintext_application_logs
