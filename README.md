@@ -3,7 +3,7 @@
 [![Code Coverage](https://sonarcloud.io/api/project_badges/measure?project=ardalo_account-service&metric=coverage)](https://sonarcloud.io/dashboard?id=ardalo_account-service)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ardalo_account-service&metric=ncloc)](https://sonarcloud.io/dashboard?id=ardalo_account-service)
 
-The Account Service of the Ardalo Digital Platform takes care of everything related to the registration of users.
+The Account Service of the Ardalo Digital Platform is responsible for registration and authentication.
 
 ## Tech Info
 __Java Spring Boot Service__
