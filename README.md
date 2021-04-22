@@ -19,11 +19,11 @@ __Java Spring Boot Service__
 * CI/CD: GitHub Actions
 
 ## Quick Start
-* Run via Docker using `docker-compose` and find API docs at `http://localhost:8083/`
+* Run via Docker using `docker compose` and find API docs at `http://localhost:8083/apidoc`
   ```console
-  $ docker-compose build && docker-compose up
+  $ docker compose build && docker compose up
   ```
-* Start application and find API docs at `http://localhost:8083/`
+* Start application and find API docs at `http://localhost:8083/apidoc`
   ```console
   $ ./gradlew bootRun
   ```
