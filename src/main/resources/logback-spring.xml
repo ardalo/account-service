@@ -17,8 +17,6 @@
               "msg": "%message",
               "logger": "%logger",
               "level": "%level",
-              "class": "%class",
-              "method": "%method",
               "file": "%file",
               "line": "#asLong{%line}",
               "stacktrace": "#nullNA{%exception}"
